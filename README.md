@@ -8,10 +8,12 @@ O Projeto em si visa fazer o monitoramento de dispositivos dentro de uma industr
 
 ## 👥 Integrantes
 Ricardo Rodrigues Cotovasso - RM: 558295
-João Pedro Sanson Miguel Benito - RM: 556802
-Lucas Person Servollo - RM: 559186
-Leonardo de Faveri - RM: 94336
 
+João Pedro Sanson Miguel Benito - RM: 556802
+
+Lucas Person Servollo - RM: 559186
+
+Leonardo de Faveri - RM: 94336
 
 ## 🚀 Como executar localmente com Docker
 
